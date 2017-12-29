@@ -3,3 +3,4 @@ goodbye jim!
 user commit -a test
 add 1
 add 2
+checkout test
